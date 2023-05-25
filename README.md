@@ -23,7 +23,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jatinkc&show_icons=true)
 
 ## 🌐 Connect with Me
 
