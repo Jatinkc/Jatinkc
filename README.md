@@ -27,10 +27,10 @@ Here are some of the technologies and tools I work with:
 
 ## 🌐 Connect with Me
 
-- Website: legiondev.hashnode.dev
+- Website: https://legiondev.hashnode.dev
 - LinkedIn: https://www.linkedin.com/in/jatinchourasia
-- Twitter: [Your Twitter Handle]
+- Twitter:  https://twitter.com/legalauth
 - Medium: https://medium.com/@jatinkc1
-- Email: jatinkc1@gmail.com
+- Email: <mailto:jatinkc1@gmail.com>
 
 Feel free to connect with me and explore my repositories. Happy coding! 😄
