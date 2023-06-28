@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Jatin Chourasia**, passionate in **DevOps & Automation** from **Bangalore, India**. 
+Welcome to my GitHub profile! I'm **Jatin Chourasia**, passionate in **DevOps** based in **Bangalore, India**. 
 
 ## 🌱 About Me
 
