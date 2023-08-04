@@ -11,6 +11,14 @@ Welcome to my GitHub profile! I'm **Jatin Chourasia**, passionate in **DevOps** 
 - 📫 How to reach me: jatinkc1@gmail.com
 - 😄 Pronouns: He/Him
 
+## EDUCATION
+|Degree                |Board|Percentage/CGPA|
+|----------------|-------------------------------|-----------------------------|
+|10<sup>th</sup>|`CBSE`            |7.2 cgpa            |
+|12<sup>th</sup>|`"CBSE"`            |64 %            |
+|BCA          |`Lovely Professional University`|7.4 cgpa|
+|MCA          |`Lovely Professional University`|8.6 cgpa|
+
 ## ⚡ Technologies
 
 Here are some of the technologies and tools I work with:
