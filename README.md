@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm **Jatin Chourasia**, passionate in **DevOps** 
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on **Docker**
+- 🔭 I’m currently working on **AWS**
 - 🌱 I’m currently learning **Jenkins & Terraform**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Docker, Kubernetes**
